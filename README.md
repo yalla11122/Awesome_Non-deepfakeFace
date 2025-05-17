@@ -21,5 +21,17 @@ More advanced spoofing techniques involve the use of masks, including 3D-printed
 5.....Makeup or Obstruction 💄😷: Using makeup or face coverings to obscure certain facial features.
 
 6.............Infrared Attacks 🌡️: Using infrared images to bypass the facial recognition system by targeting the different light spectrum.
+      7.System Vulnerabilities (CVEs, OSVDBs)
+Face recognition systems often run on complex operating systems. If these systems are not regularly patched, attackers can exploit known vulnerabilities 🕳️ — listed in CVEs (Common Vulnerabilities and Exposures) and OSVDBs (Open Sourced Vulnerability Database). For example, an outdated library or insecure root permission configuration can lead to unauthorized access or privilege escalation 
+  Face recognition often runs on embedded or general-purpose OSes (like Linux or Windows) 🖥️. Attackers may exploit known vulnerabilities  
+     Install rootkits 🧬 for persistent backdoors
+
+Tamper with the face recognition module ⚙️
+
+Hijack camera feeds or facial databases 🎥📁
+
+These attacks exploit system-level flaws, often not directly related to the recognition algorithm itself.
+
+
 
 
