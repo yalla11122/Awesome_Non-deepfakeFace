@@ -34,6 +34,9 @@ Hijack camera feeds or facial databases 🎥📁
 
 These attacks exploit system-level flaws, often not directly related to the recognition algorithm itself.
 
+8... Time Zone Advance Attack ⏰🌍
+This is a lesser-known but clever attack where an attacker manipulates the system’s internal clock or timezone settings to replay or pre-approve access based on timing data. By tricking the system’s time validation, unauthorized access can be granted without needing to spoof the face itself.
+
 
 
 
