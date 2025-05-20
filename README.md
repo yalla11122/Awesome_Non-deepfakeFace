@@ -23,7 +23,7 @@ More advanced spoofing techniques involve the use of masks, including 3D-printed
 6.............Infrared Attacks 🌡️: Using infrared images to bypass the facial recognition system by targeting the different light spectrum.
     
       
-      7.System Vulnerabilities (CVEs, OSVDBs)
+     🧬🐚  7.System Vulnerabilities (CVEs, OSVDBs)
 Face recognition systems often run on complex operating systems. If these systems are not regularly patched, attackers can exploit known vulnerabilities 🕳️ — listed in CVEs (Common Vulnerabilities and Exposures) and OSVDBs (Open Sourced Vulnerability Database). For example, an outdated library or insecure root permission configuration can lead to unauthorized access or privilege escalation 
   Face recognition often runs on embedded or general-purpose OSes (like Linux or Windows) 🖥️. Attackers may exploit known vulnerabilities  
      Install rootkits 🧬 for persistent backdoors
@@ -37,6 +37,11 @@ These attacks exploit system-level flaws, often not directly related to the reco
 8... Time Zone Advance Attack ⏰🌍
 This is a lesser-known but clever attack where an attacker manipulates the system’s internal & physics clock or timezone settings to replay or pre-approve access based on timing data. By tricking the system’s time validation, unauthorized access can be granted without needing to spoof the face itself.
 
+   9. ⌨️🎯Keyloggers and Credential Theft 
+   By installing a keylogger on the target's device, attackers can extract system credentials or manipulate facial recognition software settings.
+
+🌐 10. MITM (Man-in-the-Middle) Attack
+In networked facial recognition deployments (like remote access authentication), an attacker can use MITM attacks to intercept and modify facial data transmissions.
 
 
 
